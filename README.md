@@ -47,10 +47,6 @@ Please enter the path for the output PDF file: path/to/output/documentation.pdf
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributing
-
-Feel free to contribute to this project by opening issues or pull requests. See [CONTRIBUTING](CONTRIBUTING.md) for more details.
-
 ## Acknowledgments
 
 - Thanks to the [md-to-pdf](https://www.npmjs.com/package/md-to-pdf) library for making Markdown to PDF conversion easier.
