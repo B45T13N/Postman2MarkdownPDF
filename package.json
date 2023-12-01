@@ -1,0 +1,15 @@
+{
+  "name": "postmanjson-to-markdown",
+  "version": "1.0.0",
+  "description": "Little project to generate markdown file and PDF from postman documentation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bastien DA SILVA",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "md-to-pdf": "^5.2.4"
+  }
+}
