@@ -1,6 +1,3 @@
-Certainly! Here's the Markdown format for your README documentation:
-
-```markdown
 # Postman2MarkdownPDF
 
 Postman2MarkdownPDF is a tool that converts Postman collection data in JSON format to Markdown and then to PDF. This can be useful for generating documentation from your Postman API collections.
