@@ -15,7 +15,7 @@ npm install
 1. **Run the Script:**
 
    ```bash
-   node formatJsonToMarkdown.js
+   node index.js
    ```
 
 2. **Follow the Prompts:**
