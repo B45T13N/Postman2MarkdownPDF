@@ -75,7 +75,7 @@ rl.question('Please enter the path of the JSON file: ', (jsonFilePath) => {
 
         rl.question('Please enter the path for the output PDF file: ', async (pdfFilePath) => {
             try {
-                const pdf = await mdToPdf({ path: 'readme.md' }, { dest: pdfFilePath }).catch((error) => {throw error});
+                const pdf = await mdToPdf({ path: markdownFilePath }, { dest: pdfFilePath }).catch((error) => {throw error});
 
                 if (pdf) {
                     fs.writeFileSync(pdf.filename, pdf.content);
